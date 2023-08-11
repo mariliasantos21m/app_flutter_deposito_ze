@@ -90,3 +90,9 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
     - assets/logo_deposito.png
+    - assets/beer.png
+    - assets/wine.png
+    - assets/soft_drink.png
+    - assets/others.png
+    - assets/liquor.png
+    - assets/destilados.png
